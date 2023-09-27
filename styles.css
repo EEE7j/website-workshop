@@ -27,6 +27,7 @@ main {
 	background: white;
 	border: 2px solid grey;
 	border-radius: 9px;
+	font-family: 'Mooli', sans-serif;
 }
 
 #shyguy {
