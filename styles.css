@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
+	background: ffffff;
 }
 
 header {
@@ -8,8 +9,8 @@ header {
 	margin: auto;
 	margin-bottom: 20px;
 	padding: 20px;
-	background-color: #cf99ff;
-	border: 2px #cf99ff;
+	background-color: cf99ff ;
+	border: 2px solid darkgreen;
 	border-radius: 9px;
 	font-family: 'Mooli', sans-serif;
 }
@@ -23,7 +24,7 @@ main {
 	width: 80vw;
 	margin: auto;
 	padding: 20px;
-	background: #cf99ff;
+	background: cf99ff;
 	border: 2px solid grey;
 	border-radius: 9px;
 	font-family: 'Mooli', sans-serif;
