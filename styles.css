@@ -9,6 +9,7 @@ header {
 	margin: auto;
 	margin-bottom: 20px;
 	padding: 20px;
+	background: cf99ff;
 	background-color: cf99ff;
 	border: 2px cf99ff;
 	border-radius: 9px;
@@ -24,7 +25,7 @@ main {
 	width: 80vw;
 	margin: auto;
 	padding: 20px;
-	background: white;
+	background: cf99ff;
 	border: 2px solid grey;
 	border-radius: 9px;
 	font-family: 'Mooli', sans-serif;
